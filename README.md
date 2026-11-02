@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Raphael Kropf 😁
+## Bem-vindo(a) ao perfil do rphkc 😁
 
  <div>
    <a href="https://github.com/raphaelkropf">
